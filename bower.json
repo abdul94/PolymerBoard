@@ -1,0 +1,25 @@
+{
+  "name": "PolymerBoard",
+  "version": "0.0.0",
+  "authors": [
+    "abdul94 <abdulrehman1994@gmail.com>"
+  ],
+  "description": "Collaboard implemented with Polymer UI framework",
+  "main": "index.html",
+  "keywords": [
+    "polymer",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/abdul94/PolymerBoard",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.8.0"
+  }
+}
